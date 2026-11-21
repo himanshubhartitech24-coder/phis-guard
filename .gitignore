@@ -1,0 +1,27 @@
+# Environments
+.venv/
+backend/.venv/
+env/
+venv/
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Build outputs
+dist/
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
